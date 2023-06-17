@@ -1,11 +1,11 @@
 # rakeshkadam.github.io
 ## Experience
 
-### Software Engineer at Raja Software Labs Pvt Ltd
+### Software Engineer | Raja Software Labs
 June 2021 -- Present
 
 - Collaborated with **cross-functional** teams to develop and deliver high-quality web applications using **Ember.js, React.js, JavaScript, GraphQL** and other frontend technologies.
-- Implemented **Agile methodology**, actively participating in daily stand-ups, sprint planning, and retrospective meetings.
+- Worked in **Agile methodology**, actively participating in daily stand-ups, sprint planning, and retrospective meetings.
 - Utilized **Kanban boards** to manage and prioritize tasks, ensuring efficient workflow and transparent communication within the team.
 - Worked on the project having huge codebase and having **740 million users**.
 - Worked closely with designers, converting wireframes and mockups into clean and responsive code, following best practices and design guidelines.
@@ -13,7 +13,7 @@ June 2021 -- Present
 - Conducted code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement.
 - Actively kept up with industry trends, exploring new technologies and frameworks to stay updated and deliver cutting-edge solutions.
 
-### Software Engineer at Raja Software Labs Pvt Ltd
+### Web developer Intern | Raja Software Labs
 January 2021 -- May 2021
 
 - Collaborated with the development team to understand project requirements and objectives.
@@ -26,12 +26,11 @@ January 2021 -- May 2021
 
 ## Education
 
-### Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded
-Bachelor of Information Technology (2018-21)
+### B.Tech. in Information Technology (2018 - 21)
+Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded
 
-### JSPM's College of Engineering, Tathawade, Pune
-Diploma in Computer Science (2016-18)
-
+### Diploma in Computer Science (2016 - 18)
+JSPM's College of Engineering, Tathawade, Pune
 
 ## Skills
 

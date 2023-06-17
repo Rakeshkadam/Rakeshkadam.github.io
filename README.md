@@ -1,4 +1,3 @@
-# rakeshkadam.github.io
 ## Experience
 
 ### Software Engineer | Raja Software Labs

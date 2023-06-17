@@ -1,0 +1,13 @@
+title: Rakesh Kadam
+logo: "/rakesh.png"
+description: >
+  <br>
+  Software Engineer | Frontend Engineer
+  <br>
+  <a href="https://www.linkedin.com/in/rakesh22kadam/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rakesh22kadam@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-minimal
